@@ -1,0 +1,8 @@
+plot_directories: # Directories (folder paths) where plots are located
+    - "N/A"
+farmer_secret_key: "N/A" 
+launcher_id: "N/A" 
+worker_name: "N/A" 
+region: "sg" 
+payout_address: "N/A" 
+license: true 

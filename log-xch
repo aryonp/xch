@@ -1,0 +1,8 @@
+File /etc/logrotate.d/log-plotter
+/home/USER/chialogs/*.log {
+    daily
+    missingok
+    rotate 7
+    compress
+    notifempty
+}
